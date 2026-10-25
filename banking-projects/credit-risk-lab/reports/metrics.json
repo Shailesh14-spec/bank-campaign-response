@@ -1,0 +1,27 @@
+{
+  "rows": 30000,
+  "split_rows": {
+    "train": 11992,
+    "calibration": 5996,
+    "validation": 6012,
+    "test": 6000
+  },
+  "selected_model": "gradient_boosting",
+  "test": {
+    "roc_auc": 0.7800278865891648,
+    "average_precision": 0.5537501010862683,
+    "brier": 0.13452233581125347,
+    "prevalence": 0.22133333333333333
+  },
+  "constant_prior_brier": 0.17234501327176383,
+  "roc_auc_bootstrap_95_ci": [
+    0.7645064359189908,
+    0.794278550263343
+  ],
+  "validation_80pct_threshold": 0.3295158251932544,
+  "test_review_share": 0.20216666666666666,
+  "test_recall_at_threshold": 0.5233433734939759,
+  "score_psi_train_test": 0.0008611273812448317,
+  "raw_sha256": "30c6be3abd8dcfd3e6096c828bad8c2f011238620f5369220bd60cfc82700933",
+  "base_one_month_loss_proxy_twd": 29438726.454678345
+}
