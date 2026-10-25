@@ -59,3 +59,8 @@ This is response prediction, not churn, creditworthiness, or causal uplift. The 
 Python, pandas, data validation, reproducibility, evaluation design, visualisation, and evidence-based communication, leakage prevention and baseline comparison.
 
 Code is [MIT licensed](LICENSE); dataset terms remain separate.
+
+## More banking Python projects
+
+- [Credit risk modelling and validation](https://github.com/Shailesh14-spec/bank-credit-risk-python): calibrated default probabilities, custom scores, subgroup diagnostics and loss sensitivity.
+- [Card fraud monitoring and analyst triage](https://github.com/Shailesh14-spec/bank-fraud-monitoring-python): chronological validation and strict hourly review capacity.
